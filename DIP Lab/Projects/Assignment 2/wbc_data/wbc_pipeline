@@ -1,0 +1,27 @@
+// WBC Classification Pipeline
+digraph {
+	rankdir=LR size=10
+	A [label="Input Images
+(White Blood Cells)"]
+	B [label="Preprocessing
+(Segmentation, Masking)"]
+	C [label="Feature Extraction
+(Shape, Color, Texture)"]
+	D [label="Feature Aggregation
+(Group by Image ID)"]
+	E [label="Train/Test Split
+(Train: Class Statistics)"]
+	F [label="Feature Normalization
+(Mean-Std, Clipping)"]
+	G [label="Prediction
+(Normalized Euclidean Distance)"]
+	H [label="Evaluation
+(Accuracy, Confusion Matrix)"]
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+	E -> F
+	F -> G
+	G -> H
+}

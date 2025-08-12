@@ -1,0 +1,954 @@
+{
+    "003.bmp": {
+        "dice_score": 0.9678,
+        "accuracy": 0.9695
+    },
+    "004.bmp": {
+        "dice_score": 0.946,
+        "accuracy": 0.9587
+    },
+    "005.bmp": {
+        "dice_score": 0.8045,
+        "accuracy": 0.8118
+    },
+    "006.bmp": {
+        "dice_score": 0.9811,
+        "accuracy": 0.9758
+    },
+    "007.bmp": {
+        "dice_score": 0.9079,
+        "accuracy": 0.9469
+    },
+    "008.bmp": {
+        "dice_score": 0.9506,
+        "accuracy": 0.9469
+    },
+    "009.bmp": {
+        "dice_score": 0.9836,
+        "accuracy": 0.9695
+    },
+    "010.bmp": {
+        "dice_score": 0.9721,
+        "accuracy": 0.9428
+    },
+    "011.bmp": {
+        "dice_score": 0.9641,
+        "accuracy": 0.9664
+    },
+    "012.bmp": {
+        "dice_score": 0.9753,
+        "accuracy": 0.959
+    },
+    "013.bmp": {
+        "dice_score": 0.8921,
+        "accuracy": 0.8284
+    },
+    "014.bmp": {
+        "dice_score": 0.9329,
+        "accuracy": 0.9455
+    },
+    "015.bmp": {
+        "dice_score": 0.9764,
+        "accuracy": 0.9619
+    },
+    "016.bmp": {
+        "dice_score": 0.9506,
+        "accuracy": 0.9629
+    },
+    "017.bmp": {
+        "dice_score": 0.9752,
+        "accuracy": 0.9746
+    },
+    "018.bmp": {
+        "dice_score": 0.9506,
+        "accuracy": 0.954
+    },
+    "019.bmp": {
+        "dice_score": 0.9552,
+        "accuracy": 0.9638
+    },
+    "020.bmp": {
+        "dice_score": 0.9694,
+        "accuracy": 0.9615
+    },
+    "021.bmp": {
+        "dice_score": 0.9805,
+        "accuracy": 0.926
+    },
+    "022.bmp": {
+        "dice_score": 0.973,
+        "accuracy": 0.9712
+    },
+    "023.bmp": {
+        "dice_score": 0.9791,
+        "accuracy": 0.9756
+    },
+    "024.bmp": {
+        "dice_score": 0.9732,
+        "accuracy": 0.9455
+    },
+    "025.bmp": {
+        "dice_score": 0.9191,
+        "accuracy": 0.9549
+    },
+    "026.bmp": {
+        "dice_score": 0.8934,
+        "accuracy": 0.8759
+    },
+    "027.bmp": {
+        "dice_score": 0.92,
+        "accuracy": 0.9271
+    },
+    "028.bmp": {
+        "dice_score": 0.9137,
+        "accuracy": 0.9237
+    },
+    "029.bmp": {
+        "dice_score": 0.9801,
+        "accuracy": 0.9656
+    },
+    "030.bmp": {
+        "dice_score": 0.9467,
+        "accuracy": 0.8999
+    },
+    "031.bmp": {
+        "dice_score": 0.9729,
+        "accuracy": 0.9788
+    },
+    "032.bmp": {
+        "dice_score": 0.9058,
+        "accuracy": 0.9476
+    },
+    "033.bmp": {
+        "dice_score": 0.9059,
+        "accuracy": 0.9254
+    },
+    "034.bmp": {
+        "dice_score": 0.9199,
+        "accuracy": 0.9282
+    },
+    "035.bmp": {
+        "dice_score": 0.8284,
+        "accuracy": 0.8543
+    },
+    "036.bmp": {
+        "dice_score": 0.9428,
+        "accuracy": 0.9594
+    },
+    "037.bmp": {
+        "dice_score": 0.9337,
+        "accuracy": 0.9401
+    },
+    "038.bmp": {
+        "dice_score": 0.9454,
+        "accuracy": 0.9724
+    },
+    "039.bmp": {
+        "dice_score": 0.8689,
+        "accuracy": 0.9038
+    },
+    "040.bmp": {
+        "dice_score": 0.9092,
+        "accuracy": 0.9247
+    },
+    "041.bmp": {
+        "dice_score": 0.8304,
+        "accuracy": 0.8768
+    },
+    "042.bmp": {
+        "dice_score": 0.8778,
+        "accuracy": 0.8899
+    },
+    "043.bmp": {
+        "dice_score": 0.8095,
+        "accuracy": 0.8342
+    },
+    "044.bmp": {
+        "dice_score": 0.7529,
+        "accuracy": 0.7887
+    },
+    "045.bmp": {
+        "dice_score": 0.9233,
+        "accuracy": 0.9349
+    },
+    "046.bmp": {
+        "dice_score": 0.9261,
+        "accuracy": 0.929
+    },
+    "047.bmp": {
+        "dice_score": 0.847,
+        "accuracy": 0.9197
+    },
+    "048.bmp": {
+        "dice_score": 0.9106,
+        "accuracy": 0.9253
+    },
+    "049.bmp": {
+        "dice_score": 0.8963,
+        "accuracy": 0.9217
+    },
+    "050.bmp": {
+        "dice_score": 0.8927,
+        "accuracy": 0.9116
+    },
+    "051.bmp": {
+        "dice_score": 0.9228,
+        "accuracy": 0.9568
+    },
+    "052.bmp": {
+        "dice_score": 0.818,
+        "accuracy": 0.8524
+    },
+    "053.bmp": {
+        "dice_score": 0.6971,
+        "accuracy": 0.7847
+    },
+    "054.bmp": {
+        "dice_score": 0.9675,
+        "accuracy": 0.9631
+    },
+    "055.bmp": {
+        "dice_score": 0.9168,
+        "accuracy": 0.9393
+    },
+    "056.bmp": {
+        "dice_score": 0.9761,
+        "accuracy": 0.9719
+    },
+    "057.bmp": {
+        "dice_score": 0.969,
+        "accuracy": 0.9681
+    },
+    "058.bmp": {
+        "dice_score": 0.8695,
+        "accuracy": 0.9025
+    },
+    "059.bmp": {
+        "dice_score": 0.9343,
+        "accuracy": 0.9522
+    },
+    "060.bmp": {
+        "dice_score": 0.944,
+        "accuracy": 0.9312
+    },
+    "061.bmp": {
+        "dice_score": 0.874,
+        "accuracy": 0.9147
+    },
+    "062.bmp": {
+        "dice_score": 0.9638,
+        "accuracy": 0.978
+    },
+    "063.bmp": {
+        "dice_score": 0.8638,
+        "accuracy": 0.8842
+    },
+    "064.bmp": {
+        "dice_score": 0.9741,
+        "accuracy": 0.9772
+    },
+    "065.bmp": {
+        "dice_score": 0.9558,
+        "accuracy": 0.9649
+    },
+    "066.bmp": {
+        "dice_score": 0.9849,
+        "accuracy": 0.9378
+    },
+    "067.bmp": {
+        "dice_score": 0.8768,
+        "accuracy": 0.9476
+    },
+    "068.bmp": {
+        "dice_score": 0.8176,
+        "accuracy": 0.8565
+    },
+    "069.bmp": {
+        "dice_score": 0.9845,
+        "accuracy": 0.9799
+    },
+    "070.bmp": {
+        "dice_score": 0.9815,
+        "accuracy": 0.9671
+    },
+    "071.bmp": {
+        "dice_score": 0.9663,
+        "accuracy": 0.9555
+    },
+    "072.bmp": {
+        "dice_score": 0.9899,
+        "accuracy": 0.9798
+    },
+    "073.bmp": {
+        "dice_score": 0.9704,
+        "accuracy": 0.9768
+    },
+    "074.bmp": {
+        "dice_score": 0.9419,
+        "accuracy": 0.9591
+    },
+    "075.bmp": {
+        "dice_score": 0.9783,
+        "accuracy": 0.9781
+    },
+    "076.bmp": {
+        "dice_score": 0.9569,
+        "accuracy": 0.9789
+    },
+    "077.bmp": {
+        "dice_score": 0.9303,
+        "accuracy": 0.963
+    },
+    "078.bmp": {
+        "dice_score": 0.9095,
+        "accuracy": 0.9425
+    },
+    "079.bmp": {
+        "dice_score": 0.9821,
+        "accuracy": 0.9779
+    },
+    "080.bmp": {
+        "dice_score": 0.8611,
+        "accuracy": 0.9351
+    },
+    "081.bmp": {
+        "dice_score": 0.9788,
+        "accuracy": 0.9722
+    },
+    "082.bmp": {
+        "dice_score": 0.9559,
+        "accuracy": 0.7596
+    },
+    "083.bmp": {
+        "dice_score": 0.9527,
+        "accuracy": 0.8209
+    },
+    "084.bmp": {
+        "dice_score": 0.9744,
+        "accuracy": 0.9415
+    },
+    "085.bmp": {
+        "dice_score": 0.9719,
+        "accuracy": 0.9509
+    },
+    "086.bmp": {
+        "dice_score": 0.9329,
+        "accuracy": 0.7908
+    },
+    "087.bmp": {
+        "dice_score": 0.9519,
+        "accuracy": 0.7114
+    },
+    "088.bmp": {
+        "dice_score": 0.8467,
+        "accuracy": 0.8193
+    },
+    "089.bmp": {
+        "dice_score": 0.8711,
+        "accuracy": 0.7801
+    },
+    "090.bmp": {
+        "dice_score": 0.9132,
+        "accuracy": 0.8399
+    },
+    "091.bmp": {
+        "dice_score": 0.9613,
+        "accuracy": 0.8218
+    },
+    "092.bmp": {
+        "dice_score": 0.9624,
+        "accuracy": 0.9182
+    },
+    "093.bmp": {
+        "dice_score": 0.9793,
+        "accuracy": 0.9103
+    },
+    "094.bmp": {
+        "dice_score": 0.8032,
+        "accuracy": 0.9353
+    },
+    "095.bmp": {
+        "dice_score": 0.8616,
+        "accuracy": 0.9412
+    },
+    "096.bmp": {
+        "dice_score": 0.9003,
+        "accuracy": 0.9416
+    },
+    "097.bmp": {
+        "dice_score": 0.8163,
+        "accuracy": 0.9124
+    },
+    "098.bmp": {
+        "dice_score": 0.7989,
+        "accuracy": 0.9157
+    },
+    "099.bmp": {
+        "dice_score": 0.8286,
+        "accuracy": 0.9181
+    },
+    "100.bmp": {
+        "dice_score": 0.9745,
+        "accuracy": 0.9436
+    },
+    "101.bmp": {
+        "dice_score": 0.8961,
+        "accuracy": 0.9457
+    },
+    "102.bmp": {
+        "dice_score": 0.9525,
+        "accuracy": 0.971
+    },
+    "103.bmp": {
+        "dice_score": 0.9657,
+        "accuracy": 0.9734
+    },
+    "104.bmp": {
+        "dice_score": 0.9655,
+        "accuracy": 0.9256
+    },
+    "105.bmp": {
+        "dice_score": 0.8454,
+        "accuracy": 0.9059
+    },
+    "106.bmp": {
+        "dice_score": 0.9849,
+        "accuracy": 0.9853
+    },
+    "107.bmp": {
+        "dice_score": 0.8904,
+        "accuracy": 0.9269
+    },
+    "108.bmp": {
+        "dice_score": 0.9271,
+        "accuracy": 0.9172
+    },
+    "109.bmp": {
+        "dice_score": 0.8504,
+        "accuracy": 0.9064
+    },
+    "110.bmp": {
+        "dice_score": 0.7488,
+        "accuracy": 0.8901
+    },
+    "111.bmp": {
+        "dice_score": 0.9776,
+        "accuracy": 0.9798
+    },
+    "112.bmp": {
+        "dice_score": 0.858,
+        "accuracy": 0.9192
+    },
+    "113.bmp": {
+        "dice_score": 0.9285,
+        "accuracy": 0.958
+    },
+    "114.bmp": {
+        "dice_score": 0.8457,
+        "accuracy": 0.8948
+    },
+    "115.bmp": {
+        "dice_score": 0.9201,
+        "accuracy": 0.7937
+    },
+    "116.bmp": {
+        "dice_score": 0.9755,
+        "accuracy": 0.8882
+    },
+    "117.bmp": {
+        "dice_score": 0.9708,
+        "accuracy": 0.944
+    },
+    "118.bmp": {
+        "dice_score": 0.9814,
+        "accuracy": 0.8943
+    },
+    "119.bmp": {
+        "dice_score": 0.9638,
+        "accuracy": 0.9631
+    },
+    "120.bmp": {
+        "dice_score": 0.9676,
+        "accuracy": 0.8627
+    },
+    "121.bmp": {
+        "dice_score": 0.9879,
+        "accuracy": 0.9019
+    },
+    "122.bmp": {
+        "dice_score": 0.979,
+        "accuracy": 0.966
+    },
+    "123.bmp": {
+        "dice_score": 0.9338,
+        "accuracy": 0.8106
+    },
+    "124.bmp": {
+        "dice_score": 0.974,
+        "accuracy": 0.929
+    },
+    "125.bmp": {
+        "dice_score": 0.9692,
+        "accuracy": 0.9316
+    },
+    "126.bmp": {
+        "dice_score": 0.9775,
+        "accuracy": 0.9423
+    },
+    "127.bmp": {
+        "dice_score": 0.98,
+        "accuracy": 0.9708
+    },
+    "128.bmp": {
+        "dice_score": 0.9799,
+        "accuracy": 0.9669
+    },
+    "129.bmp": {
+        "dice_score": 0.8758,
+        "accuracy": 0.6978
+    },
+    "130.bmp": {
+        "dice_score": 0.9703,
+        "accuracy": 0.9771
+    },
+    "131.bmp": {
+        "dice_score": 0.8616,
+        "accuracy": 0.9142
+    },
+    "132.bmp": {
+        "dice_score": 0.9726,
+        "accuracy": 0.9633
+    },
+    "133.bmp": {
+        "dice_score": 0.9673,
+        "accuracy": 0.9342
+    },
+    "134.bmp": {
+        "dice_score": 0.9681,
+        "accuracy": 0.8784
+    },
+    "135.bmp": {
+        "dice_score": 0.9309,
+        "accuracy": 0.9335
+    },
+    "136.bmp": {
+        "dice_score": 0.9687,
+        "accuracy": 0.9627
+    },
+    "137.bmp": {
+        "dice_score": 0.9554,
+        "accuracy": 0.9531
+    },
+    "138.bmp": {
+        "dice_score": 0.7361,
+        "accuracy": 0.8845
+    },
+    "139.bmp": {
+        "dice_score": 0.8647,
+        "accuracy": 0.9253
+    },
+    "140.bmp": {
+        "dice_score": 0.9664,
+        "accuracy": 0.9713
+    },
+    "141.bmp": {
+        "dice_score": 0.9052,
+        "accuracy": 0.9269
+    },
+    "142.bmp": {
+        "dice_score": 0.9639,
+        "accuracy": 0.965
+    },
+    "143.bmp": {
+        "dice_score": 0.9797,
+        "accuracy": 0.918
+    },
+    "144.bmp": {
+        "dice_score": 0.9484,
+        "accuracy": 0.9422
+    },
+    "145.bmp": {
+        "dice_score": 0.949,
+        "accuracy": 0.9564
+    },
+    "146.bmp": {
+        "dice_score": 0.9524,
+        "accuracy": 0.9623
+    },
+    "147.bmp": {
+        "dice_score": 0.958,
+        "accuracy": 0.964
+    },
+    "148.bmp": {
+        "dice_score": 0.9823,
+        "accuracy": 0.9814
+    },
+    "149.bmp": {
+        "dice_score": 0.9716,
+        "accuracy": 0.8704
+    },
+    "150.bmp": {
+        "dice_score": 0.9397,
+        "accuracy": 0.9497
+    },
+    "151.bmp": {
+        "dice_score": 0.962,
+        "accuracy": 0.9664
+    },
+    "152.bmp": {
+        "dice_score": 0.9761,
+        "accuracy": 0.9701
+    },
+    "153.bmp": {
+        "dice_score": 0.954,
+        "accuracy": 0.9363
+    },
+    "154.bmp": {
+        "dice_score": 0.9669,
+        "accuracy": 0.9695
+    },
+    "155.bmp": {
+        "dice_score": 0.9606,
+        "accuracy": 0.9692
+    },
+    "156.bmp": {
+        "dice_score": 0.9773,
+        "accuracy": 0.9832
+    },
+    "157.bmp": {
+        "dice_score": 0.9612,
+        "accuracy": 0.9674
+    },
+    "158.bmp": {
+        "dice_score": 0.972,
+        "accuracy": 0.9683
+    },
+    "159.bmp": {
+        "dice_score": 0.9208,
+        "accuracy": 0.9236
+    },
+    "160.bmp": {
+        "dice_score": 0.9558,
+        "accuracy": 0.9624
+    },
+    "161.bmp": {
+        "dice_score": 0.9343,
+        "accuracy": 0.9453
+    },
+    "162.bmp": {
+        "dice_score": 0.9592,
+        "accuracy": 0.9549
+    },
+    "163.bmp": {
+        "dice_score": 0.938,
+        "accuracy": 0.9351
+    },
+    "164.bmp": {
+        "dice_score": 0.8608,
+        "accuracy": 0.8934
+    },
+    "165.bmp": {
+        "dice_score": 0.9405,
+        "accuracy": 0.9572
+    },
+    "166.bmp": {
+        "dice_score": 0.984,
+        "accuracy": 0.9651
+    },
+    "167.bmp": {
+        "dice_score": 0.9109,
+        "accuracy": 0.9426
+    },
+    "168.bmp": {
+        "dice_score": 0.9463,
+        "accuracy": 0.9511
+    },
+    "169.bmp": {
+        "dice_score": 0.9737,
+        "accuracy": 0.9783
+    },
+    "170.bmp": {
+        "dice_score": 0.9733,
+        "accuracy": 0.967
+    },
+    "171.bmp": {
+        "dice_score": 0.9807,
+        "accuracy": 0.9622
+    },
+    "172.bmp": {
+        "dice_score": 0.9382,
+        "accuracy": 0.9575
+    },
+    "173.bmp": {
+        "dice_score": 0.9594,
+        "accuracy": 0.9572
+    },
+    "174.bmp": {
+        "dice_score": 0.9708,
+        "accuracy": 0.9593
+    },
+    "175.bmp": {
+        "dice_score": 0.9591,
+        "accuracy": 0.9507
+    },
+    "176.bmp": {
+        "dice_score": 0.9833,
+        "accuracy": 0.973
+    },
+    "177.bmp": {
+        "dice_score": 0.9745,
+        "accuracy": 0.9534
+    },
+    "178.bmp": {
+        "dice_score": 0.9786,
+        "accuracy": 0.9728
+    },
+    "179.bmp": {
+        "dice_score": 0.9669,
+        "accuracy": 0.968
+    },
+    "180.bmp": {
+        "dice_score": 0.9549,
+        "accuracy": 0.9431
+    },
+    "181.bmp": {
+        "dice_score": 0.9553,
+        "accuracy": 0.9622
+    },
+    "182.bmp": {
+        "dice_score": 0.9651,
+        "accuracy": 0.9673
+    },
+    "183.bmp": {
+        "dice_score": 0.9645,
+        "accuracy": 0.9642
+    },
+    "184.bmp": {
+        "dice_score": 0.9866,
+        "accuracy": 0.983
+    },
+    "185.bmp": {
+        "dice_score": 0.9728,
+        "accuracy": 0.9731
+    },
+    "186.bmp": {
+        "dice_score": 0.9692,
+        "accuracy": 0.9723
+    },
+    "187.bmp": {
+        "dice_score": 0.9305,
+        "accuracy": 0.9473
+    },
+    "188.bmp": {
+        "dice_score": 0.877,
+        "accuracy": 0.9216
+    },
+    "189.bmp": {
+        "dice_score": 0.9868,
+        "accuracy": 0.9843
+    },
+    "190.bmp": {
+        "dice_score": 0.9347,
+        "accuracy": 0.9475
+    },
+    "191.bmp": {
+        "dice_score": 0.8829,
+        "accuracy": 0.914
+    },
+    "192.bmp": {
+        "dice_score": 0.9063,
+        "accuracy": 0.9291
+    },
+    "193.bmp": {
+        "dice_score": 0.9057,
+        "accuracy": 0.9445
+    },
+    "194.bmp": {
+        "dice_score": 0.9131,
+        "accuracy": 0.932
+    },
+    "195.bmp": {
+        "dice_score": 0.8576,
+        "accuracy": 0.7381
+    },
+    "196.bmp": {
+        "dice_score": 0.9587,
+        "accuracy": 0.8896
+    },
+    "197.bmp": {
+        "dice_score": 0.9582,
+        "accuracy": 0.9035
+    },
+    "198.bmp": {
+        "dice_score": 0.9591,
+        "accuracy": 0.8951
+    },
+    "199.bmp": {
+        "dice_score": 0.9731,
+        "accuracy": 0.9416
+    },
+    "200.bmp": {
+        "dice_score": 0.9833,
+        "accuracy": 0.8159
+    },
+    "201.bmp": {
+        "dice_score": 0.7848,
+        "accuracy": 0.8688
+    },
+    "202.bmp": {
+        "dice_score": 0.8725,
+        "accuracy": 0.8628
+    },
+    "203.bmp": {
+        "dice_score": 0.9323,
+        "accuracy": 0.9328
+    },
+    "204.bmp": {
+        "dice_score": 0.9518,
+        "accuracy": 0.9692
+    },
+    "205.bmp": {
+        "dice_score": 0.8843,
+        "accuracy": 0.8299
+    },
+    "206.bmp": {
+        "dice_score": 0.7029,
+        "accuracy": 0.8336
+    },
+    "207.bmp": {
+        "dice_score": 0.6901,
+        "accuracy": 0.7858
+    },
+    "208.bmp": {
+        "dice_score": 0.9214,
+        "accuracy": 0.9025
+    },
+    "209.bmp": {
+        "dice_score": 0.8208,
+        "accuracy": 0.8685
+    },
+    "210.bmp": {
+        "dice_score": 0.7997,
+        "accuracy": 0.8476
+    },
+    "211.bmp": {
+        "dice_score": 0.7862,
+        "accuracy": 0.8247
+    },
+    "212.bmp": {
+        "dice_score": 0.6265,
+        "accuracy": 0.8139
+    },
+    "213.bmp": {
+        "dice_score": 0.8538,
+        "accuracy": 0.899
+    },
+    "214.bmp": {
+        "dice_score": 0.9045,
+        "accuracy": 0.8783
+    },
+    "215.bmp": {
+        "dice_score": 0.7793,
+        "accuracy": 0.8681
+    },
+    "216.bmp": {
+        "dice_score": 0.9292,
+        "accuracy": 0.9526
+    },
+    "217.bmp": {
+        "dice_score": 0.9334,
+        "accuracy": 0.8932
+    },
+    "218.bmp": {
+        "dice_score": 0.9407,
+        "accuracy": 0.9553
+    },
+    "219.bmp": {
+        "dice_score": 0.9591,
+        "accuracy": 0.969
+    },
+    "220.bmp": {
+        "dice_score": 0.9203,
+        "accuracy": 0.944
+    },
+    "221.bmp": {
+        "dice_score": 0.9328,
+        "accuracy": 0.8661
+    },
+    "222.bmp": {
+        "dice_score": 0.927,
+        "accuracy": 0.9562
+    },
+    "223.bmp": {
+        "dice_score": 0.9808,
+        "accuracy": 0.9868
+    },
+    "224.bmp": {
+        "dice_score": 0.9713,
+        "accuracy": 0.9469
+    },
+    "225.bmp": {
+        "dice_score": 0.8168,
+        "accuracy": 0.88
+    },
+    "226.bmp": {
+        "dice_score": 0.7367,
+        "accuracy": 0.8348
+    },
+    "227.bmp": {
+        "dice_score": 0.6404,
+        "accuracy": 0.786
+    },
+    "228.bmp": {
+        "dice_score": 0.6856,
+        "accuracy": 0.8027
+    },
+    "229.bmp": {
+        "dice_score": 0.6167,
+        "accuracy": 0.7887
+    },
+    "230.bmp": {
+        "dice_score": 0.635,
+        "accuracy": 0.8218
+    },
+    "231.bmp": {
+        "dice_score": 0.5574,
+        "accuracy": 0.7562
+    },
+    "232.bmp": {
+        "dice_score": 0.6342,
+        "accuracy": 0.8063
+    },
+    "233.bmp": {
+        "dice_score": 0.7044,
+        "accuracy": 0.7999
+    },
+    "234.bmp": {
+        "dice_score": 0.9453,
+        "accuracy": 0.8749
+    },
+    "235.bmp": {
+        "dice_score": 0.8586,
+        "accuracy": 0.8793
+    },
+    "236.bmp": {
+        "dice_score": 0.6034,
+        "accuracy": 0.8074
+    },
+    "237.bmp": {
+        "dice_score": 0.906,
+        "accuracy": 0.871
+    },
+    "238.bmp": {
+        "dice_score": 0.7601,
+        "accuracy": 0.8174
+    },
+    "239.bmp": {
+        "dice_score": 0.9432,
+        "accuracy": 0.9403
+    },
+    "240.bmp": {
+        "dice_score": 0.7073,
+        "accuracy": 0.8176
+    }
+}
