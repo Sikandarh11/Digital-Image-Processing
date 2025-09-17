@@ -1,0 +1,21 @@
+# Core image processing and computer vision libraries
+opencv-python>=4.5.0
+numpy>=1.19.0
+matplotlib>=3.3.0
+pandas>=1.2.0
+scikit-image>=0.18.0
+scikit-learn>=0.24.0
+seaborn>=0.11.0
+
+# Jupyter notebook environment
+jupyter>=1.0.0
+notebook>=6.0.0
+ipywidgets>=7.6.0
+
+# Additional utilities
+Pillow>=8.0.0
+scipy>=1.6.0
+tqdm>=4.60.0
+
+# For specific projects
+collections-extended>=2.0.0
